@@ -1,11 +1,11 @@
-import CustomRoutes from "./components/CustomRoutes/CustomRoutes"
+import CustomRoutes from "./Routes/CustomRoutes"
 
 function App() {
 
   return (
-   <>
-      <CustomRoutes/>
-   </>
+   <div>
+    <CustomRoutes/>
+   </div>
   )
 }
 
